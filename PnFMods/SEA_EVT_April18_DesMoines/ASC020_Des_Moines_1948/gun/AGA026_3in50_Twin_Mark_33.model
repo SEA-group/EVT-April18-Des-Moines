@@ -1,0 +1,13 @@
+<AGA026_3in50_Twin_Mark_33.model>
+	<castsShadow>	false	</castsShadow>
+	<extent>	2.0000	</extent>
+	<parent>	content/gameplay/usa/gun/aaircraft/AGA509_3in50_Twin_Mark_33_Space/lods/AGA509_3in50_Twin_Mark_33_Space_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.139529 0.000000 -0.110323	</min>
+		<max>	0.138179 0.234417 0.186666	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/gun/aaircraft/AGA509_3in50_Twin_Mark_33_Space/AGA509_3in50_Twin_Mark_33_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA026_3in50_Twin_Mark_33.model>

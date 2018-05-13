@@ -1,0 +1,9 @@
+<AAF024_XP_40S.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/usa/aircraft/fighter/AAF500_Star_Fighter_Space/lods/AAF500_Star_Fighter_Space_lod1	</parent>
+	<extent>	5.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	content/gameplay/usa/aircraft/fighter/AAF500_Star_Fighter_Space/AAF500_Star_Fighter_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AAF024_XP_40S.model>

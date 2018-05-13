@@ -1,0 +1,13 @@
+<AD044_Director_Mk54.model>
+	<castsShadow>	false	</castsShadow>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.248936 0.000000 -0.125566	</min>
+		<max>	0.248936 0.132227 0.085240	</max>
+	</visibilityBox>
+	<extent>	3.0000	</extent>
+	<parent>	content/gameplay/usa/director/AD301_Director_Mk54_Space/lods/AD301_Director_Mk54_Space_lod1	</parent>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/director/AD301_Director_Mk54_Space/AD301_Director_Mk54_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AD044_Director_Mk54.model>

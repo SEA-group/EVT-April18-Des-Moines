@@ -1,0 +1,13 @@
+<AC002_Catapult_2.model>
+	<castsShadow>	true	</castsShadow>
+	<extent>	3.0000	</extent>
+	<parent>	content/gameplay/usa/catapult/AC050_Catapult_Space/lods/AC050_Catapult_Space_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.078075 -0.001547 -0.733477	</min>
+		<max>	0.119757 0.116245 0.706144	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/catapult/AC050_Catapult_Space/AC050_Catapult_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AC002_Catapult_2.model>

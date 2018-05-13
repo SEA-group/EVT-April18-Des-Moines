@@ -1,0 +1,13 @@
+<ASC020_Des_Moines_1948_MidBack.model>
+	<extent>	10.0000	</extent>
+	<parent>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/lods/ASC046_Des_Moines_Space_MidBack_lod1	</parent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.868584 -0.548096 -2.046532	</min>
+		<max>	0.867503 3.006055 2.046532	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space_MidBack	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_MidBack.model>

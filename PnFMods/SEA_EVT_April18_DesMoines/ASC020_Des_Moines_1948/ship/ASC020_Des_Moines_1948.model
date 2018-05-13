@@ -1,0 +1,13 @@
+<ASC020_Des_Moines_1948.model>
+	<extent>	400.0000	</extent>
+	<parent>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/lods/ASC046_Des_Moines_Space_Full_lod4	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	0.000000 0.000000 5.171389	</min>
+		<max>	0.000000 0.000000 5.171389	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948.model>

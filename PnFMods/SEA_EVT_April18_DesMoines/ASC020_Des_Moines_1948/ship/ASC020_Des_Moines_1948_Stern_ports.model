@@ -1,0 +1,12 @@
+<ASC020_Des_Moines_1948_Stern_ports.model>
+	<extent>	200.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.480707 0.529198 -0.495175	</min>
+		<max>	-0.480707 0.529198 -0.495175	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space_Stern_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_Stern_ports.model>

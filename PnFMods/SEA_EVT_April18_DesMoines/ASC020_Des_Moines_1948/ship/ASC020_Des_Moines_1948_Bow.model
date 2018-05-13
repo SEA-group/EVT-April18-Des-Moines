@@ -1,0 +1,13 @@
+<ASC020_Des_Moines_1948_Bow.model>
+	<extent>	10.0000	</extent>
+	<parent>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/lods/ASC046_Des_Moines_Space_Bow_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.622971 -0.546347 -2.109000	</min>
+		<max>	0.623067 1.039257 2.096893	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space_Bow	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_Bow.model>

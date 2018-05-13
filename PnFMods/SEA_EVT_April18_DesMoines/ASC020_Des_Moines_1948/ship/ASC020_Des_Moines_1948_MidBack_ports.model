@@ -1,0 +1,12 @@
+<ASC020_Des_Moines_1948_MidBack_ports.model>
+	<extent>	200.0000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.212285 0.902451 0.128801	</min>
+		<max>	-0.212285 0.902451 0.128801	</max>
+	</visibilityBox>
+	<castsShadow>	true	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space_MidBack_ports	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_MidBack_ports.model>

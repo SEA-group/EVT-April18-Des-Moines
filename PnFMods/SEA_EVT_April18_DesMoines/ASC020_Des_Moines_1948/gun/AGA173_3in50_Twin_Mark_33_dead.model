@@ -1,0 +1,8 @@
+<AGA173_3in50_Twin_Mark_33_dead.model>
+	<exporter>	1.6	</exporter>
+	<parent>	content/gameplay/usa/gun/aaircraft/AGA509_3in50_Twin_Mark_33_Space/lods/AGA509_3in50_Twin_Mark_33_Space_dead_lod1	</parent>
+	<nodefullVisual>	content/gameplay/usa/gun/aaircraft/AGA509_3in50_Twin_Mark_33_Space/AGA509_3in50_Twin_Mark_33_Space_dead	</nodefullVisual>
+	<extent>	3.0000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGA173_3in50_Twin_Mark_33_dead.model>

@@ -1,0 +1,13 @@
+<ASC020_Des_Moines_1948_Stern.model>
+	<extent>	10.0000	</extent>
+	<parent>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/lods/ASC046_Des_Moines_Space_Stern_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.778773 -0.507392 -2.098618	</min>
+		<max>	0.778773 0.827782 2.101886	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/ship/cruiser/ASC046_Des_Moines_Space/ASC046_Des_Moines_Space_Stern	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</ASC020_Des_Moines_1948_Stern.model>

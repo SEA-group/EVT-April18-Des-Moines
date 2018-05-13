@@ -1,0 +1,13 @@
+<AGM025_8in55_Triple_Mk16_dead.model>
+	<extent>	5.0000	</extent>
+	<parent>	content/gameplay/usa/gun/main/AGM507_8in55_Triple_Mk16_Space/lods/AGM507_8in55_Triple_Mk16_Space_dead_lod1	</parent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<visibilityBox>
+		<min>	-0.360616 -0.019204 -0.545456	</min>
+		<max>	0.403465 0.308896 0.680111	</max>
+	</visibilityBox>
+	<exporter>	1.6	</exporter>
+	<nodefullVisual>	content/gameplay/usa/gun/main/AGM507_8in55_Triple_Mk16_Space/AGM507_8in55_Triple_Mk16_Space_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</AGM025_8in55_Triple_Mk16_dead.model>
